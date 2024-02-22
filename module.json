@@ -7,7 +7,7 @@
       "name": "Matbaren"
       }
     ],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "compatibility": {
       "minimum": "10",
       "verified": "11",
@@ -15,7 +15,7 @@
         "init.js"
     ],
     "url": "https://github.com/matbaren/releasetest",
-    "manifest": "",
-    "download": "" 
+    "manifest": "https://github.com/matbaren/releasetest/releases/download/1.0.1/module.json",
+    "download": "https://github.com/matbaren/releasetest/releases/download/1.0.1/releasemodules-test.zip" 
     }
   }
