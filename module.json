@@ -16,6 +16,8 @@
     ],
     "url": "https://github.com/matbaren/releasetest",
     "manifest": "https://github.com/matbaren/releasetest/releases/download/1.0.1/module.json",
-    "download": "https://github.com/matbaren/releasetest/releases/download/1.0.1/releasemodules-test.zip" 
+    "download": "https://github.com/matbaren/releasetest/releases/download/1.0.1/releasemodules-test.zip",
+    "bugs": "https://github.com/matbaren/releasetest/issues",
+    "readme": "https://github.com/matbaren/releasetest/README.MD"
     }
   }
