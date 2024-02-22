@@ -1,0 +1,21 @@
+{
+    "id": "Release Test",
+    "title": "Release Test",
+    "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
+    "authors": [
+      {
+      "name": "Matbaren"
+      }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+      "minimum": "10",
+      "verified": "11",
+    "scripts": [
+        "init.js"
+    ],
+    "url": "https://github.com/matbaren/releasetest",
+    "manifest": "",
+    "download": "" 
+    }
+  }

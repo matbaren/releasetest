@@ -1,0 +1,1 @@
+console.log("Release test script works!")
