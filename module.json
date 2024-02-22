@@ -7,17 +7,17 @@
       "name": "Matbaren"
       }
     ],
-    "version": "1.0.2",
+    "version": "1.0.3",
     "compatibility": {
       "minimum": "10",
-      "verified": "11",
-    "scripts": [
+      "verified": "11"
+    },
+    "scripts":[
         "init.js"
     ],
     "url": "https://github.com/matbaren/releasetest",
     "manifest": "https://github.com/matbaren/releasetest/releases/latest/download/module.json",
-    "download": "https://github.com/matbaren/releasetest/releases/latest/download/releasemodules-test.zip",
+    "download": "https://github.com/matbaren/releasetest/releases/download/1.0.3/releasemodules-test.zip",
     "bugs": "https://github.com/matbaren/releasetest/issues",
     "readme": "https://github.com/matbaren/releasetest#"
-    }
   }
